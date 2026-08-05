@@ -482,6 +482,7 @@ jobs:
         body_path: release.txt
         files: |
           ${{ env.FIRMWARE }}/*.bin
+          ${{ env.FIRMWARE }}/*.itb
           ${{ env.FIRMWARE }}/*.ipk
           ${{ env.FIRMWARE }}/*.img.gz
           ${{ env.FIRMWARE }}/*.manifest
