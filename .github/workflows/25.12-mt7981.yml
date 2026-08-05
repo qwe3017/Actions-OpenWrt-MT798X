@@ -2,7 +2,7 @@ name: 25.12-mt7981
 
 env:
   DEVICE_NAME: 25.12-mt7981
-  REPO_URL: https://github.com/chasey-dev/immortalwrt-mt798x-rebase
+  REPO_URL: https://github.com/809280470/immortalwrt-mt798x-rebase
   REPO_BRANCH: 25.12
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: 25.12/mt7981-25.12.config
