@@ -29,7 +29,7 @@ git clone --depth=1 https://github.com/Openwrt-Passwall/openwrt-passwall package
 git clone --depth=1 https://github.com/Openwrt-Passwall/openwrt-passwall2 package/custom/passwall2
 
 # OpenClash
-git clone --depth=1 -b dev https://github.com/vernesong/OpenClash.git package/custom/openclash
+git clone --depth=1 -b master https://github.com/vernesong/OpenClash.git package/custom/openclash
 
 # Nikki / Momo
 git clone --depth=1 https://github.com/nikkinikki-org/OpenWrt-nikki.git package/custom/nikki
